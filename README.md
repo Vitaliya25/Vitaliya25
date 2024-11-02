@@ -1,12 +1,19 @@
-![](Designer1.jpeg)
+![](Designer1.jpeg) 
 ## Hi there 👋
 My name is Vitaliya Skral
 ## About Me
 - **Education**: Degree in Mathematics
-- **Current Studies**: Multiplatform Application Development(DAM)
-- **Interests**: Software development, cross-platform programming, mobile application development.
+- **Current Studies**: Multiplatform Application Development
+    (Java, Kotlin, HTML, CSS, Android, SQL)
+- **Interests**: Software development, multimedia programming, mobile application development
 - 🤔 I’m looking for help with Android Studio
-
+  
+## Interesting web pages
+[Android API Reference](https://developer.android.com/reference)    
+[W3Schools](https://www.w3schools.com/)    
+[Pildorasinformaticas](https://www.pildorasinformaticas.es/)
+## Videos
+  []()
 ## Contact
 If you have any questions or suggestions, contact me:
 - **Email**: vitaliyaskral@gmail.com
