@@ -1,4 +1,4 @@
-![]()
+![](Designer1.jpeg)
 ## Hi there 👋
 My name is Vitaliya Skral
 ## About Me
