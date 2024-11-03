@@ -1,12 +1,10 @@
 ![](Designer1.jpeg) 
-## Hi there 👋
-My name is Vitaliya Skral
+## Hi there, I'm Vitaliya Skral
 ## About Me
 - **Education**: Degree in Mathematics
 - **Current Studies**: Multiplatform Application Development
     (Java, Kotlin, HTML, CSS, Android, SQL)
 - **Interests**: Software development, multimedia programming, mobile application development
-- 🤔 I’m looking for help with Android Studio
   
 ## Interesting web pages
 [Android API Reference](https://developer.android.com/reference)    
