@@ -1,7 +1,7 @@
 ![](Designer1.jpeg) 
 ## Hi there, I'm Vitaliya Skral
 Welcome to my GitHub profile! I am a student in the Multiplatform Application Development module    
-wanting to learn and improve my skills in programming
+wanting to learn and improve my skills in programming, web design and app development.
 
 ## About Me
 - **Education**
@@ -10,8 +10,8 @@ wanting to learn and improve my skills in programming
      Multiplatform Application Development
 - **Languages and Technologies**    
      Java, Kotlin, SQL, HTML, CSS, basic experience with Git and GitHub for project management.
-- **Interests**    
-    I'd like to improve my skills in programming, mobile applicationb development, multimedia programming and web design
+- **Interests**
+     mobile applicationb development, multimedia programming.
   
 ## Interesting web pages
 [Android API Reference](https://developer.android.com/reference)    
