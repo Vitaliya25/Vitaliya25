@@ -11,7 +11,8 @@
 [W3Schools](https://www.w3schools.com/)    
 [Pildorasinformaticas](https://www.pildorasinformaticas.es/)
 ## Videos
-  []()
+  [](https://www.youtube.com/watch?v=6xxhYr4gbQE)    
+  [](https://www.youtube.com/watch?v=z9os03Qs1rw)
 ## Contact
 If you have any questions or suggestions, contact me:
 - **Email**: vitaliyaskral@gmail.com
