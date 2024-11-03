@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I am a student in the Multiplatform Application De
 wanting to learn and improve my skills in programming, web design and app development.
 
 ## About Me
-- **Education**
+- **Education**     
      Degree in Mathematics
 - **Current Studies**    
      Multiplatform Application Development
-- **Languages and Technologies**    
+- **Languages and Technologies**         
      Java, Kotlin, SQL, HTML, CSS, basic experience with Git and GitHub for project management.
-- **Interests**
+- **Interests**     
      mobile applicationb development, multimedia programming.
   
 ## Interesting web pages
